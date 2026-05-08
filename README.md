@@ -48,6 +48,3 @@ The game uses no cutscenes. Story is communicated entirely through the world:
 
 ---
 
-## Team
-
-Group 11 — Game Design course project on Narrative Design and World Building.
