@@ -12,19 +12,19 @@ A man arrives at an isolated mountain resort for vacation. While exploring outsi
 
 As he climbs, the environment tells its own story — scattered gear from climbers who never made it back, crumbling old lodges, and subtle tremors underfoot. The mountain isn't just cold. It's alive.
 
-**Plot twist:** The avalanche was caused by a volcano on the verge of eruption. The final act becomes a race down the mountain to outrun the lava.
+Plot twist: The avalanche was caused by a volcano on the verge of eruption. The final act becomes a race down the mountain to outrun the lava.
 
 ---
 
 ## Mechanics
 
-**Frozen feet movement** — The player cannot walk normally. All traversal relies on the ice pickaxe, reinforcing the character's physical limitations throughout.
+Frozen feet movement — The player cannot walk normally. All traversal relies on the ice pickaxe, reinforcing the character's physical limitations throughout.
 
-**Breakable platforms** — Checkered ice tiles crumble sequentially when stood on, detected via collision script.
+Breakable platforms — Checkered ice tiles crumble sequentially when stood on, detected via collision script.
 
-**Narrative audio triggers** — Unity Trigger Colliders at key story beats activate AI-voiced monologues. The first trigger, placed near a pair of lost skis buried in snow, plays a message of fear and despair to set the emotional tone.
+Narrative audio triggers — Unity Trigger Colliders at key story beats activate AI-voiced monologues. The first trigger, placed near a pair of lost skis buried in snow, plays a message of fear and despair to set the emotional tone.
 
-**Volcano escape** — Reaching the summit triggers a final downhill chase as lava erupts beneath the player.
+Volcano escape — Reaching the summit triggers a final downhill chase as lava erupts beneath the player.
 
 ---
 
@@ -45,6 +45,3 @@ The game uses no cutscenes. Story is communicated entirely through the world:
 - Unity
 - C#
 - AI-generated voice audio
-
----
-
